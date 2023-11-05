@@ -52,4 +52,4 @@ struct ContentView_Preview:PreviewProvider {
     
 ```
 
-<img width="40%"  src="https://raw.githubusercontent.com/ncudemo/yzu-swiftui-1121-864106/main/hw1-20231002-1.png">
+<img width="40%"  src="https://github.com/Xiang-92/yzu-swiftui-1101421/blob/main/IMG_0309.jpeg">
